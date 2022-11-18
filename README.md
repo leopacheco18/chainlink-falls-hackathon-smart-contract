@@ -13,7 +13,7 @@ With Chainlink datafeeds the price of the product could be in Matic or USD. Also
 
 ## Important Links
 
-[SmartContracts Repo](https://github.com/leopacheco18/chainlink-falls-hackathon-smart-contract)
+[Frontend Repo](https://github.com/leopacheco18/chainlink-falls-hackathon-frontend-)
 
 
 [NodeJs Backend Repo](https://github.com/leopacheco18/chainlink-falls-hackathon-backend)
