@@ -1,6 +1,6 @@
 # Chainlink-falls-hackathon-smart-contract
 
-Smart Contracts for OpenMarket Project on Chainlink Falls Hackathon.
+Smart Contracts built with Hardhat for OpenMarket Project on Chainlink Falls Hackathon.
 
 [Live Demo Hosted in Fleek](https://open-market-chainlink-falls-hackathon.on.fleek.co/#/)
 
